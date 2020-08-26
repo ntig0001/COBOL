@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xsi:schemaLocation="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="cobolProject" name="Dummy_Project" uuid="95408bef-2ee7-4ea9-bdd0-4eb2d3089f68" version="5.0">
+<project xsi:schemaLocation="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="cobolProject" name="Dummy_Project" uuid="fabdd3c7-33cc-4ee6-bbd2-252e2366597b" version="5.0">
    <settings xsi:type="projectSettingsContainer">
       <copybook-paths xsi:type="copybookPathsSettings">
          <path enabled="true" name="/Dummy_Project" type="mfpath"/>

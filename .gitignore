@@ -3,6 +3,9 @@
 
 ### Eclipse ###
 .metadata
+.cobolBuild
+.cobolProj
+.project
 bin/
 tmp/
 *.tmp
