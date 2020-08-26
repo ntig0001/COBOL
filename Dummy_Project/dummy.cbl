@@ -7,7 +7,7 @@
        working-storage section.
 
        procedure division.
-           display "Hello World. I am a dummy project!".
+           display "Hello World! I am a dummy project! Yaaay".
 
            goback.
 
